@@ -2,7 +2,7 @@
 
 > A curated collection of **140+ beginner-to-intermediate Python programs** to practice fundamentals, problem-solving, and interview preparation.
 
-![Mega Infographic]()
+![Mega Infographic](https://github.com/Ashwin18-Offcl/Python_Programs/blob/master/Python.png)
 
 ---
 
