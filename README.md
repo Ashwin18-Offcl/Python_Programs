@@ -79,7 +79,7 @@ This repository organizes 140+ Python programs into clear categories (Basics, Co
 
 **Markdown link (replace with your GitHub repo URL):**
 
-```md
+
 [View this repository on GitHub](https://github.com/Ashwin18-Offcl/Python_Programs)
 📂 Sections & Example Programs (Section-wise summary)
 1. Basics & I/O
@@ -339,7 +339,7 @@ https://github.com/Ashwin18-Offcl/Python_Programs
 📜 License
 MIT License
 Copyright (c) 2025
-!
+
 
 
 
